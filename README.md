@@ -1,4 +1,4 @@
-Hello!!Im Troopy😉
+Hello!!  Im Troopy😉
 <br/><br/>
 Hi, my name is Aaron Olivera, I am 21 years old and I am a front-end developer and web designer. I study Systems Engineering at the Universidad Nacional Mayor de San Marcos📖.<br/><br/> I like to be investigating the new trends of web pages and what technologies they use to be able to apply it and expand my knowledge📈.<br/><br/>I like soccer, video games and also watch movies or series on any platform🍿🎬.<br/><br/>
 I use this technologies⚙️:<br/>
