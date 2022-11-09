@@ -11,5 +11,7 @@ I use this technologies⚙️:<br/>
 ![icons8-node-js](https://user-images.githubusercontent.com/79943236/200708701-21f25dde-5524-423d-b964-a86290d9d7c8.svg)
 ![icons8-oracle-logo](https://user-images.githubusercontent.com/79943236/200708705-df9d4c10-91c7-459c-811a-9c5b432b3591.svg)
 ![icons8-php-logo](https://user-images.githubusercontent.com/79943236/200708880-535be418-2a1f-4801-941f-4e1a2adcbda6.svg)
+![icons8-git](https://user-images.githubusercontent.com/79943236/200709172-271a379e-57f5-4fc6-a60a-a594fc22866e.svg)
+![icons8-typescript](https://user-images.githubusercontent.com/79943236/200709175-735575f6-2686-491f-88e4-6bbd7462306a.svg)
 ![icons8-figma](https://user-images.githubusercontent.com/79943236/200708873-ad16a51c-e327-4d67-b951-519123c6f91d.svg)
 ![icons8-adobe-xd](https://user-images.githubusercontent.com/79943236/200708875-e90e1abe-491c-4aa5-ac8c-4510531eeb11.svg)
