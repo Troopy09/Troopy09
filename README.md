@@ -2,6 +2,7 @@ Hello!!  Im Troopy😉
 <br/><br/>
 Hi, my name is Aaron Olivera, I am 21 years old and I am a front-end developer and web designer. I study Systems Engineering at the Universidad Nacional Mayor de San Marcos📖.<br/><br/> I like to be investigating the new trends of web pages and what technologies they use to be able to apply it and expand my knowledge📈.<br/><br/>I like soccer, video games and also watch movies or series on any platform🍿🎬.<br/><br/>
 I use this technologies⚙️:<br/>
+![icons8-sap (1)](https://user-images.githubusercontent.com/79943236/217707184-26579734-21e9-47f8-b9ef-afed62946e30.svg)
 ![icons8-sap](https://user-images.githubusercontent.com/79943236/217706876-104eed6a-f79f-481a-9cbc-03a1fdefb0dd.svg)
 ![icons8-c-programming](https://user-images.githubusercontent.com/79943236/200708652-73ee45a2-9c0a-4d9d-a466-b63859bf54b7.svg)
 ![icons8-c++](https://user-images.githubusercontent.com/79943236/200708676-8b620694-ec26-45fe-acb4-dfe34defe591.svg)
@@ -17,4 +18,3 @@ I use this technologies⚙️:<br/>
 ![icons8-typescript](https://user-images.githubusercontent.com/79943236/200709175-735575f6-2686-491f-88e4-6bbd7462306a.svg)
 ![icons8-figma](https://user-images.githubusercontent.com/79943236/200708873-ad16a51c-e327-4d67-b951-519123c6f91d.svg)
 ![icons8-adobe-xd](https://user-images.githubusercontent.com/79943236/200708875-e90e1abe-491c-4aa5-ac8c-4510531eeb11.svg)
-![icons8-sap (1)](https://user-images.githubusercontent.com/79943236/217707184-26579734-21e9-47f8-b9ef-afed62946e30.svg)
