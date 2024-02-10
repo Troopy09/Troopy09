@@ -17,7 +17,8 @@ Front-End Development: <br>
 ![icons8-node-js](https://user-images.githubusercontent.com/79943236/200708701-21f25dde-5524-423d-b964-a86290d9d7c8.svg)
 ![icons8-php-logo](https://user-images.githubusercontent.com/79943236/200708880-535be418-2a1f-4801-941f-4e1a2adcbda6.svg)<br><br>
 Database: <br>
-![icons8-oracle-logo](https://user-images.githubusercontent.com/79943236/200708705-df9d4c10-91c7-459c-811a-9c5b432b3591.svg)<br>
+![icons8-oracle-logo](https://user-images.githubusercontent.com/79943236/200708705-df9d4c10-91c7-459c-811a-9c5b432b3591.svg)
+![icons8-mysql](https://github.com/troopyux/TroopyUx/assets/79943236/2c2a00e7-abd3-4583-93b3-299721fb38c7)<br>
 Software:<br>
 ![icons8-git](https://user-images.githubusercontent.com/79943236/200709172-271a379e-57f5-4fc6-a60a-a594fc22866e.svg)
 ![icons8-typescript](https://user-images.githubusercontent.com/79943236/200709175-735575f6-2686-491f-88e4-6bbd7462306a.svg)
